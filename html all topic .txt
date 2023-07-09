@@ -1,0 +1,14 @@
+1. print any word
+2. heading tag
+3. pragraph tag and meta tag
+4. style 
+5. bold,strong,italic(i,em) tag
+6. small,underline,ins,delete,mark tag
+7. sup,sup tag
+8. br ,blockquote tag
+9. address,abbr tag
+10.bdo tag
+11.commenting
+12.link tag
+13.img tag
+14.
